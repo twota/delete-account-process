@@ -1,5 +1,7 @@
 # delete-account-process
 
+How can a user delete their account?
+
 
 -------------
 
